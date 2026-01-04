@@ -1,0 +1,9 @@
+/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description/CMakeFiles/uninstall.dir
+/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description/CMakeFiles/dogg_description_uninstall.dir
+/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description/CMakeFiles/test.dir
+/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description/CMakeFiles/edit_cache.dir
+/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description/CMakeFiles/rebuild_cache.dir
+/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description/CMakeFiles/list_install_components.dir
+/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description/CMakeFiles/install.dir
+/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description/CMakeFiles/install/local.dir
+/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description/CMakeFiles/install/strip.dir

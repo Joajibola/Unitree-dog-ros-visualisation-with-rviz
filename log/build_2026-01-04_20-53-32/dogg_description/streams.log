@@ -1,0 +1,52 @@
+[0.029s] Invoking command in '/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/dogg_description -DCMAKE_INSTALL_PREFIX=/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description
+[0.661s] -- The C compiler identification is GNU 13.3.0
+[2.221s] -- The CXX compiler identification is GNU 13.3.0
+[4.319s] -- Detecting C compiler ABI info
+[5.117s] -- Detecting C compiler ABI info - done
+[5.133s] -- Check for working C compiler: /usr/bin/cc - skipped
+[5.136s] -- Detecting C compile features
+[5.138s] -- Detecting C compile features - done
+[5.463s] -- Detecting CXX compiler ABI info
+[6.200s] -- Detecting CXX compiler ABI info - done
+[6.211s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[6.212s] -- Detecting CXX compile features
+[6.213s] -- Detecting CXX compile features - done
+[6.273s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[6.515s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[6.730s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[6.957s] -- Added test 'lint_cmake' to check CMake code style
+[6.962s] -- Added test 'xmllint' to check XML markup files
+[6.968s] -- Configuring done (6.9s)
+[7.008s] -- Generating done (0.0s)
+[7.017s] -- Build files have been written to: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description
+[7.024s] Invoked command in '/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/dogg_description -DCMAKE_INSTALL_PREFIX=/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description
+[7.027s] Invoking command in '/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description -- -j12 -l12
+[7.108s] Invoked command in '/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description -- -j12 -l12
+[7.147s] Invoking command in '/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description
+[7.168s] -- Install configuration: ""
+[7.169s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes
+[7.176s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/trunk.dae
+[8.051s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/depthCamera.dae
+[8.053s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/thigh.dae
+[8.069s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/thigh_mirror.dae
+[8.087s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/calf.dae
+[8.122s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/ultraSound.dae
+[8.128s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/hip.dae
+[8.159s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//urdf
+[8.159s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//urdf/dogg.urdf
+[8.161s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/ament_index/resource_index/package_run_dependencies/dogg_description
+[8.162s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/ament_index/resource_index/parent_prefix_path/dogg_description
+[8.163s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/environment/ament_prefix_path.sh
+[8.164s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/environment/ament_prefix_path.dsv
+[8.164s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/environment/path.sh
+[8.164s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/environment/path.dsv
+[8.166s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/local_setup.bash
+[8.166s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/local_setup.sh
+[8.167s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/local_setup.zsh
+[8.168s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/local_setup.dsv
+[8.168s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/package.dsv
+[8.169s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/ament_index/resource_index/packages/dogg_description
+[8.170s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/cmake/dogg_descriptionConfig.cmake
+[8.171s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/cmake/dogg_descriptionConfig-version.cmake
+[8.171s] -- Installing: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/package.xml
+[8.174s] Invoked command in '/home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description

@@ -1,0 +1,4 @@
+source;share/dogg_description/local_setup.bash
+source;share/dogg_description/local_setup.dsv
+source;share/dogg_description/local_setup.sh
+source;share/dogg_description/local_setup.zsh
