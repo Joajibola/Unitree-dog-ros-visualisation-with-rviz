@@ -20,6 +20,22 @@ This repository provides a ROS 2 workspace for the kinematic visualization of a 
 
 1. **Clone the repository:**
    ```bash
-   mkdir -p ~/unitree_dog_ws/src
-   cd ~/unitree_dog_ws/src
-   git clone [https://github.com/Joajibola/Unitree-dog-ros-visualisation-with-rviz.git](https://github.com/Joajibola/Unitree-dog-ros-visualisation-with-rviz.git) .
+   mkdir ~/unitree_dog_ws
+   cd ~/unitree_dog_ws
+   git clone git@github.com:Joajibola/Unitree-dog-ros-visualisation-with-rviz.git
+
+2. **Build the ROS 2 package:**
+    ```bash
+    cd Unitree-dog-ros-visualisation-with-rviz
+    colcon build --symlink-install
+    source install/setup.bash
+    ```
+
+3. **Launch the rviz with the URDF**
+    ```bash
+    ros2 launch urdf_tutorial display.launch.py model:=$PWD/dogg_description/urdf/dogg.urdf
+    ```
+4. **Visualise and interact**
+
+    Rviz will open the thw unitree robot dog will load up.
+    Use the joint state publisher GUI to move the revolute joints interactively 
