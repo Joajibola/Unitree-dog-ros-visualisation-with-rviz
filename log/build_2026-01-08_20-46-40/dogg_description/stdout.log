@@ -1,0 +1,33 @@
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/build/dogg_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/calf.dae
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/depthCamera.dae
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/hip.dae
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/thigh.dae
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/thigh_mirror.dae
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/trunk.dae
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//meshes/ultraSound.dae
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description//urdf/dogg.urdf
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/ament_index/resource_index/package_run_dependencies/dogg_description
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/ament_index/resource_index/parent_prefix_path/dogg_description
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/environment/path.sh
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/environment/path.dsv
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/local_setup.bash
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/local_setup.sh
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/local_setup.zsh
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/local_setup.dsv
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/package.dsv
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/ament_index/resource_index/packages/dogg_description
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/cmake/dogg_descriptionConfig.cmake
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/cmake/dogg_descriptionConfig-version.cmake
+-- Symlinking: /home/jaja/Task_4/Unitree_go_dog_visualisation/unitree_dog_ws/install/dogg_description/share/dogg_description/package.xml
