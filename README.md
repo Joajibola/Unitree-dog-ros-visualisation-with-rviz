@@ -37,5 +37,5 @@ This repository provides a ROS 2 workspace for the kinematic visualization of a 
     ```
 4. **Visualise and interact**
 
-    Rviz will open the thw unitree robot dog will load up.
+    Rviz will open and the unitree robot dog will load up.
     Use the joint state publisher GUI to move the revolute joints interactively 
